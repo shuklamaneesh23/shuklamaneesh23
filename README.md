@@ -17,12 +17,12 @@ I am a B.Tech undergraduate at IIIT Lucknow, specializing in Information Technol
 - Competitive Programming Challenges
 
 ### Portfolio and Profiles
-- **Portfolio Website**: [Your Portfolio Website URL](https://your-portfolio-website.com)
-- **Codeforces**: [Your Codeforces Profile](https://codeforces.com/profile/your-username)
+- **Portfolio Website**: [Maneesh Shukla Portfolio](https://portfolio-maneesh-shukla.vercel.app)
+- **Codeforces**: [shuklamaneesh23](https://codeforces.com/profile/shuklamaneesh23)
 
 ### Reach Me At
-- **Email**: [Your Email Address](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/maneesh-shukla-a23596281)
+- **Email**: [shuklamaneesh24@gmail.com](mailto:shuklamaneesh24@gmail.com)
+- **LinkedIn**: [Maneesh Shukla](https://www.linkedin.com/in/maneesh-shukla-a23596281/overlay/contact-info/)
 
 ### Fun Fact
 I am always on the lookout for new challenges and opportunities to grow. When I'm not coding, I enjoy exploring new technologies and contributing to open-source projects.
