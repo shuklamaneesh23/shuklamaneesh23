@@ -18,7 +18,7 @@ I am a B.Tech undergraduate at IIIT Lucknow, specializing in Information Technol
 
 ### Portfolio and Profiles
 - **Portfolio Website**: [Maneesh Shukla Portfolio](https://portfolio-maneesh-shukla.vercel.app)
-- **Codeforces**: [shuklamaneesh23](https://codeforces.com/profile/shuklamaneesh23)
+- **Codeforces**: [shuklamaneesh23](https://codeforces.com/profile/coding_wolf23)
 
 ### Reach Me At
 - **Email**: [shuklamaneesh24@gmail.com](mailto:shuklamaneesh24@gmail.com)
